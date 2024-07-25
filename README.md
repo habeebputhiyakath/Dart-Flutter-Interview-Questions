@@ -7,13 +7,13 @@
 
 # Bloc
 
-- https://github.com/mo7amedaliEbaid/dart-flutter-interview-questions/blob/main/bloc.md
+- https://github.com/habeebputhiyakath/Dart-Flutter-Interview-Questions/main/bloc.md
 
 # Solid
 - https://github.com/mo7amedaliEbaid/dart-flutter-interview-questions/blob/main/solid.md
 
 # Architectural Pattern
-- https://github.com/habeebputhiyakath/Dart-Flutter-Interview-Questions/blob/main/architectural-patterns.md
+- https://github.com/mo7amedaliEbaid/dart-flutter-interview-questions-preparation/blob/main/architectural-patterns.md
 - https://www.educba.com/mvp-vs-mvvm/
 - https://medium.com/@samra.sajjad0001/unleashing-creativity-exploring-architecture-patterns-in-flutter-12b7465bc927
 - https://www.geeksforgeeks.org/difference-between-mvp-and-mvvm-architecture-pattern-in-android/
