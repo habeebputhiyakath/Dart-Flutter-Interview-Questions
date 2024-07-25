@@ -51,7 +51,7 @@ The cost of design is also reduced if proper algorithms are used.
 - It inables a non-blocking operations , allowing a program to continue processing other tasks while waiting for certain operations to finish. 
 
 ## Data Structure
-![dsc](https://github.com/mo7amedaliEbaid/dart-flutter-interview-questions-preparation/assets/131966482/f5d4b088-7837-4824-b666-5f5ce79d034d)
+![dsc](https://github.com/habeebputhiyakath/Dart-Flutter-Interview-Questions/assets/131966482/f5d4b088-7837-4824-b666-5f5ce79d034d)
 
 ## Difference between linear and non-linear data structures?
 
@@ -112,8 +112,8 @@ An ordered collection of elements, where each element is identified by an index 
 Elements are stored in contiguous memory locations.
 Access time is constant, O(1), but inserting or deleting elements may be less efficient, O(n).
 ### Linked Lists:
-![Linked-List-Data-Structure](https://github.com/mo7amedaliEbaid/dart-flutter-interview-questions-preparation/assets/131966482/bb0a6fb5-78fd-42e9-8c85-1b475c77aafa)
-![linkedList](https://github.com/mo7amedaliEbaid/dart-flutter-interview-questions-preparation/assets/131966482/bbd066c9-3d4e-434f-83f9-654b9ce5b8d7)
+![Linked-List-Data-Structure](https://github.com/habeebputhiyakath/Dart-Flutter-Interview-Questions/assets/131966482/bb0a6fb5-78fd-42e9-8c85-1b475c77aafa)
+![linkedList](https://github.com/habeebputhiyakath/Dart-Flutter-Interview-Questions/assets/131966482/bbd066c9-3d4e-434f-83f9-654b9ce5b8d7)
 
 A collection of nodes, where each node contains data and a reference (or link) to the next node in the sequence.
 Dynamic in size and can easily grow or shrink.
@@ -129,24 +129,24 @@ A First In, First Out (FIFO) data structure.
 Elements are added at the rear (enqueue) and removed from the front (dequeue).
 Common operations: enqueue, dequeue, and peek.
 ### Trees:
-![tree](https://github.com/mo7amedaliEbaid/dart-flutter-interview-questions-preparation/assets/131966482/31032f0b-c858-423c-baa3-f9b88aa24c92)
+![tree](https://github.com/habeebputhiyakath/Dart-Flutter-Interview-Questions/assets/131966482/31032f0b-c858-423c-baa3-f9b88aa24c92)
 
 A hierarchical data structure with a root node and branches leading to leaf nodes.
 Binary trees have at most two children per node.
 Common types include Binary Trees, Binary Search Trees (BST), and AVL Trees.
 ### Graphs:
-![graph18](https://github.com/mo7amedaliEbaid/dart-flutter-interview-questions-preparation/assets/131966482/4575f61a-4d35-4bfe-8d7b-28366aba71ad)
+![graph18](https://github.com/habeebputhiyakath/Dart-Flutter-Interview-Questions/assets/131966482/4575f61a-4d35-4bfe-8d7b-28366aba71ad)
 
 A collection of nodes connected by edges.
 Can be directed or undirected, weighted or unweighted.
 Common representations: adjacency matrix or adjacency list.
 ### Hash Tables:
-![ComponentsofHashing](https://github.com/mo7amedaliEbaid/dart-flutter-interview-questions-preparation/assets/131966482/05e159f3-69ef-49bc-bd11-15ec63f5d888)
+![ComponentsofHashing](https://github.com/habeebputhiyakath/Dart-Flutter-Interview-Questions/assets/131966482/05e159f3-69ef-49bc-bd11-15ec63f5d888)
 
 A data structure that uses a hash function to map keys to indexes in an array.
 Provides constant time average-case complexity for search, insert, and delete operations.
 ### Heaps:
-![Heap-DS](https://github.com/mo7amedaliEbaid/dart-flutter-interview-questions-preparation/assets/131966482/1eb7ae0c-864b-46cb-8e6f-f1d55a1317f2)
+![Heap-DS](https://github.com/habeebputhiyakath/Dart-Flutter-Interview-Questions/assets/131966482/1eb7ae0c-864b-46cb-8e6f-f1d55a1317f2)
 
 A specialized tree-based data structure.
 Max heap: parent nodes are greater than or equal to their children.

@@ -26,7 +26,7 @@ request.files.add(await http.MultipartFile.fromPath('image', 'path/to/image.png'
 var response = await request.send();
 print(response.statusCode);
 ```
-![multipartrequest](https://github.com/mo7amedaliEbaid/dart-flutter-interview-questions-preparation/assets/131966482/a2e6c0e4-66d9-4eef-ba04-d33843bf5b39)
+![multipartrequest](https://github.com/habeebputhiyakath/Dart-Flutter-Interview-Questions/assets/131966482/a2e6c0e4-66d9-4eef-ba04-d33843bf5b39)
 
 # Integrating Socket IO Client
 - Web socket is a two-way, full duplex communication technology, in which the transmission of data is real-time and bi-directional. While Socket.io is a popular library used to implement web sockets.
@@ -89,17 +89,17 @@ sendMessage() {
 # MVVM, MVP, MVC.
 
 
-![arch](https://github.com/mo7amedaliEbaid/dart-flutter-interview-questions-preparation/assets/131966482/828fc6a1-995b-4ead-ad9b-c40bb69466ad)
-![arch1](https://github.com/mo7amedaliEbaid/dart-flutter-interview-questions-preparation/assets/131966482/74d8e43f-ec12-4c56-b8be-28bc94169ec4)
-![arch2](https://github.com/mo7amedaliEbaid/dart-flutter-interview-questions-preparation/assets/131966482/d40d0d97-8bd7-4e7a-9ee2-70a1d798f40a)
+![arch](https://github.com/habeebputhiyakath/Dart-Flutter-Interview-Questions/assets/131966482/828fc6a1-995b-4ead-ad9b-c40bb69466ad)
+![arch1](https://github.com/habeebputhiyakath/Dart-Flutter-Interview-Questions/assets/131966482/74d8e43f-ec12-4c56-b8be-28bc94169ec4)
+![arch2](https://github.com/habeebputhiyakath/Dart-Flutter-Interview-Questions/assets/131966482/d40d0d97-8bd7-4e7a-9ee2-70a1d798f40a)
 
-![archPatterns](https://github.com/mo7amedaliEbaid/dart-flutter-interview-questions-preparation/assets/131966482/33bc19cc-1f82-41b5-b9bf-0c5d3c1bebc7)
+![archPatterns](https://github.com/habeebputhiyakath/Dart-Flutter-Interview-Questions/assets/131966482/33bc19cc-1f82-41b5-b9bf-0c5d3c1bebc7)
 
 correct=> in mvc The Controller does pass back the Model, so there is knowledge between the View and the expected Model being passed into it, but not the Controller serving it up.
 
 # stack, heap.
 
-![memory](https://github.com/mo7amedaliEbaid/dart-flutter-interview-questions-preparation/assets/131966482/0af322e4-0647-4ce4-a66b-303db1161cb6)
+![memory](https://github.com/habeebputhiyakath/Dart-Flutter-Interview-Questions/assets/131966482/0af322e4-0647-4ce4-a66b-303db1161cb6)
 
 # pusher
 ### Install the library
