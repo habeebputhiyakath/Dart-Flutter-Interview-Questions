@@ -7,7 +7,7 @@
 
 # Bloc
 
-- https://github.com/habeebputhiyakath/Dart-Flutter-Interview-Questions/blob/main/bloc.md
+- https://github.com/habeebputhiyakath/Dart-Flutter-Interview-Questions/main/bloc.md
 
 # Solid
 - https://github.com/mo7amedaliEbaid/dart-flutter-interview-questions/blob/main/solid.md
