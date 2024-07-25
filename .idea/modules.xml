@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/dart-flutter-interview-questions.iml" filepath="$PROJECT_DIR$/.idea/dart-flutter-interview-questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Dart-Flutter-Interview-Questions.iml" filepath="$PROJECT_DIR$/.idea/Dart-Flutter-Interview-Questions.iml" />
     </modules>
   </component>
 </project>

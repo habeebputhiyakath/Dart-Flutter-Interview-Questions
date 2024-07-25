@@ -1,4 +1,4 @@
-# Dart-Flutter-interview-questions
+# Dart-Flutter-Interview-Questions
 
 
 ## 0-Flutter architectural overview.
@@ -10,7 +10,7 @@
 
 ### Architectural layers.
 <p float="left">
-   <img src="https://github.com/mo7amedaliEbaid/dart-flutter-interview-questions/blob/b3f2edbccd35b594ea589729248c3d4b322938ca/assets/flutt.png" width="770" />
+   <img src="https://github.com/habeebputhiyakath/Dart-Flutter-Interview-Questions/blob/b3f2edbccd35b594ea589729248c3d4b322938ca/assets/flutt.png" width="770" />
 </p>
 
 - Flutter is designed as an extensible, layered system. It exists as a series of independent libraries that each depend on the underlying layer. No layer has privileged access to the layer below, and every part of the framework level is designed to be optional and replaceable.
